@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding\\PBO\\PBO\\PBO.csproj",
-      "projectName": "PBO",
-      "projectPath": "D:\\Coding\\PBO\\PBO\\PBO.csproj",
+      "projectUniqueName": "D:\\Coding\\PBO\\C#OOP\\C#OOP.csproj",
+      "projectName": "C#OOP",
+      "projectPath": "D:\\Coding\\PBO\\C#OOP\\C#OOP.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding\\PBO\\PBO\\obj\\",
+      "outputPath": "D:\\Coding\\PBO\\C#OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
